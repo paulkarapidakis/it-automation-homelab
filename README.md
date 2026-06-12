@@ -27,6 +27,8 @@ The n8n workflow was built as a practical automation exercise. It processes job 
 5. Parse the AI response as structured JSON.
 6. Store the results in PostgreSQL for later review.
 
+![n8n workflow overview](docs/n8n-workflow-overview.png)
+
 ## Active Directory Lab
 
 I also started setting up a Windows Server VM with Active Directory to refresh my system administration skills.
